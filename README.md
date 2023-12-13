@@ -3,7 +3,5 @@ This dataset contains observations of a City and Resort Hotel. Each observatin r
 
 Through this project, tried to create a dashboard using Power BI indicating various KPI's like Monthly and Yearly Revenue, No of Cancelled Bookings etc .
 
-Also tried to find the answer to three main Questions asked in Project through SQL Queries
-a. Year On Year Revenue
-b. Total No of people Visiting The Hotel
-c. Does Hotel Reuire additional Parking Or Not?
+Also tried to find the answer to main Questions asked in Project through SQL Queries
+Year On Year Revenue, Total No of people Visiting The Hotel , Does Hotel Reuire additional Parking Or Not?
